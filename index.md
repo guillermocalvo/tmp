@@ -1,7 +1,7 @@
 ---
 📝: <!--
 title: foobar
-foo: foo
+foo: FOO
 📝: -->
 ---
 
@@ -9,7 +9,6 @@ foo: foo
 
 - title.page: `{{ page.title }}`
 - title.foo: `{{ page.foo }}`
-- title.📝: `{{ page.📝 }}`
 
 You can use the [editor on GitHub](https://github.com/guillermocalvo/tmp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
