@@ -1,14 +1,15 @@
 ---
 _: <!--
 title: foobar
-foo: bar
-__: -->
+foo: foobar
+_: -->
 ---
 
 ## Welcome to GitHub Pages
 
 - title.page: `{{ page.title }}`
 - title.foo: `{{ page.foo }}`
+- title._: `{{ page._ }}`
 
 You can use the [editor on GitHub](https://github.com/guillermocalvo/tmp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
